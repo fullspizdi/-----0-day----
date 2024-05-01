@@ -1,0 +1,17 @@
+{
+  "dark_web_market_url": "http://exampledarkwebmarket.cn",
+  "vulnerability_forum_url": "http://examplevulnforum.cn",
+  "reverse_engineering_tool_url": "https://www.hex-rays.com/ida-pro/",
+  "news_about_hacker_arrests": "http://examplenews.cn/hacker-arrest",
+  "ethical_hacking_discussion_forum": "http://exampleethicalhacking.cn",
+  "cms_software": "Popular CMS",
+  "zero_day_price_range": {
+    "low": 50000,
+    "high": 100000
+  },
+  "legal_consequences": "severe",
+  "ethical_dilemma": {
+    "excitement_about_technical_challenge": true,
+    "potential_real_world_harm": true
+  }
+}

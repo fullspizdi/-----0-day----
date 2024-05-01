@@ -1,0 +1,12 @@
+# This file lists all the dependencies required for the project.
+# It ensures that all necessary Python packages are installed.
+
+beautifulsoup4==4.9.3
+requests==2.25.1
+lxml==4.6.3
+pandas==1.2.4
+numpy==1.20.3
+scipy==1.6.3
+matplotlib==3.4.2
+ida-python==0.1.0  # Assuming a Python wrapper for IDA Pro exists for integration
+ghidra==0.1.0  # Assuming a Python wrapper for Ghidra exists for integration
